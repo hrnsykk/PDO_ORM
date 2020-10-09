@@ -1,6 +1,10 @@
 <?php 
 
+/*
 
+Database 
+
+*/
 
 
 class database extends \PDO{
